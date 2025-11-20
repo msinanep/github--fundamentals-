@@ -1,11 +1,15 @@
-my name is muhammed sinan ep
+My name is Muhammed Sinan Ep
 
 coming form cherpullassry
 
-father's name is mansor saqafi
+Father's name is Mansor Saqafi
 
-mather's name is xyz
+Mather's name is xyz
 
-i have to sister 
+I have a sister 
 
-finnal line
+final line
+
+I will add one more line in this file.
+
+for pulling these things to git
