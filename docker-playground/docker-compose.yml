@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  ubuntu22:
+    image: ubuntu:22.04
+    container_name: ubuntu_22
+    command: bash -c "while true; do sleep 3600; done"
+    tty: true
+    stdin_open: true
+    volumes:
+      - ./data22:/data
