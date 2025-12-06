@@ -1,8 +1,8 @@
-My name is Muhammed Sinan Ep
+My name is Muhammed Sinan Ep.
 
 coming form cherpullassry
 
-Father's name is Mansor Saqafi
+Father's name is Mansor Saqafi.
 
 Mather's name is xyz
 
@@ -13,3 +13,7 @@ final line
 I will add one more line in this file.
 
 for pulling these things to git
+
+Today's date is Dec 6, 2:38 PM. 
+
+I'm now back to the old Git project and editing some things.
